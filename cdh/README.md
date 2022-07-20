@@ -3,6 +3,7 @@
 
 - [离线大数据平台](#离线大数据平台)
   - [All Nodes](#all-nodes)
+  - [组件部署分布](#组件部署分布)
   - [HDFS Overview](#hdfs-overview)
   - [HDFS Datanodes](#hdfs-datanodes)
   - [YARN Dynamic Resource Pools](#yarn-dynamic-resource-pools)
@@ -14,6 +15,10 @@
 ## All Nodes
 
 ![-](./CDH-nodes.png)
+
+## 组件部署分布
+
+![-](./CDH-Components.png)
 
 ## HDFS Overview
 
