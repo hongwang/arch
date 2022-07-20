@@ -5,7 +5,7 @@
   - [部署架构](#部署架构)
   - [技术架构](#技术架构)
   - [数据流向图](#数据流向图)
-  - [其他资料](#其他资料)
+  - [技术资料](#技术资料)
 
 ## 逻辑架构
 
@@ -31,6 +31,6 @@
 
 ---
 
-## 其他资料
+## 技术资料
 
-[Video Streaming + CV/ML Frameworks](./Video-Streaming_CV%26ML.pdf)
+[Video Streaming + CV/ML Frameworks 技术方案介绍](./Video-Streaming_CV%26ML.pdf)
